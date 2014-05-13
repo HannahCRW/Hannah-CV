@@ -2,7 +2,7 @@
 HANNAH WIGHT
 ============
 
-[my linkedin profile](uk.linkedin.com/pub/hannah-wight/83/363/25b/)
+[my linkedin profile](http://uk.linkedin.com/pub/hannah-wight/83/363/25b/) <br>
 hannahwight.com
 
 ---------
