@@ -2,7 +2,6 @@ HANNAH WIGHT
 ============
 
 [my linkedin profile](http://uk.linkedin.com/pub/hannah-wight/83/363/25b/) <br>
-hannahwight.com
 
 
 Education
@@ -16,7 +15,7 @@ Studying at Makers Academy was an incredible experience which taught me both abo
 [Git Repo for Medicode project](https://github.com/rickbrunstedt/meditag)
 <br>
 * **King's College London** 2010-13<br>
-	BMus (Hons) 2:1
+	BMus (Hons) 2:1 <br>
 	Bachelor's degree in Music history and performance, with additional modules in Italian language.
 
 * **Trinity College of Music** 2005-10<br>
