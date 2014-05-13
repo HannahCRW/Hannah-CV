@@ -4,15 +4,6 @@ HANNAH WIGHT
 [my linkedin profile](http://uk.linkedin.com/pub/hannah-wight/83/363/25b/) <br>
 hannahwight.com
 
--------
-
-[TOC]
-# Education
-# Work Experience
-# Interesting Repos
-# Contact Me
-
--------
 
 Education
 ---------
