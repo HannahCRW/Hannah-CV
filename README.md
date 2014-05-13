@@ -35,7 +35,7 @@ Interesting Repos and Projects from Makers Academy
 * [Roman Numerals Kata](https://github.com/HannahCRW/roman_numerals)
 * [Battleships](https://github.com/HannahCRW/Battleships)
 * [Sudoku Web App](http://hcrw-sudoku.herokuapp.com/)
-* [Final Project - Medicode](www.medicode.org.uk)
+* [Final Project - Medicode](http://www.medicode.org.uk)
 
 
 Contact Me
