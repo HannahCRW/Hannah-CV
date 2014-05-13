@@ -26,13 +26,16 @@ Studying at Makers Academy was an incredible experience which taught me both abo
 Work Experience
 ---------------
 
-nothing worth mentioning oops
 
 
-Interesting Repos
+
+Interesting Repos and Projects from Makers Academy
 -----------------
 
-NONE OF THEM.  RUN AWAY.
+* [Roman Numerals Kata](https://github.com/HannahCRW/roman_numerals)
+* [Battleships](https://github.com/HannahCRW/Battleships)
+* [Sudoku Web App](http://hcrw-sudoku.herokuapp.com/)
+* [Final Project - Medicode](www.medicode.org.uk)
 
 
 Contact Me
