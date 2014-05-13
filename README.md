@@ -38,4 +38,4 @@ NONE OF THEM.  RUN AWAY.
 Contact Me
 ----------
 
-<hannah_wight@hotmail.com>
+hannah_wight@hotmail.com
