@@ -23,13 +23,8 @@ Studying at Makers Academy was an incredible experience which taught me both abo
 * **Kent College Pembury** 1994-2009<br>
 	3 A-Levels (AAA)
 
-Work Experience
----------------
 
-
-
-
-Interesting Repos and Projects from Makers Academy
+Interesting Repos and Projects
 -----------------
 
 * [Roman Numerals Kata](https://github.com/HannahCRW/roman_numerals)
